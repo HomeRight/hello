@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 老蘇的價值投資精神時光屋</title>
+    <title>post on 老蘇的價值投資精神時光屋</title>
     <link>https://homeright.github.io/post/</link>
-    <description>Recent content in Posts on 老蘇的價值投資精神時光屋</description>
+    <description>Recent content in post on 老蘇的價值投資精神時光屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 May 2021 22:42:47 +0800</lastBuildDate><atom:link href="https://homeright.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>我是老蘇</title>
-      <link>https://homeright.github.io/post/test/</link>
-      <pubDate>Sat, 29 May 2021 22:42:47 +0800</pubDate>
-      
-      <guid>https://homeright.github.io/post/test/</guid>
-      <description>我是老蘇強勢登場</description>
-    </item>
-    
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://homeright.github.io/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
